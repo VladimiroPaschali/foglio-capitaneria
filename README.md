@@ -1,4 +1,4 @@
-#Foglio Capitaneria
+# Foglio Capitaneria
 
 L'applicazione, programmata usando Flutter, permette di generare l'allegato 6 della capitaneria di porto.
 
