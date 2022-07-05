@@ -1,5 +1,8 @@
 # Foglio Capitaneria
 
+<img src = "PaginaPrincipale.jpg" width = "300">
+
+
 L'applicazione, programmata usando Flutter, permette di generare l'allegato 6 della capitaneria di porto.
 
 
@@ -24,4 +27,4 @@ Ogni elemento verrà raffigurato come un diverso pulsante nella pagina principal
 
 Selezionando le chip nella pagina principale e premendo il pulsante in basso a destra viene generato il pdf con i campi selezionati.
 
-<img src = "PaginaPrincipale.jpg" width = "300">
+
